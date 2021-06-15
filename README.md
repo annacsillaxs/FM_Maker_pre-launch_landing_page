@@ -53,4 +53,4 @@ Write more reusable responsive layouts.
 ## Author
 
 - Website - [Anna Seregi](https://www.annaseregi.me)
-- Frontend Mentor - [@annacsillaixs](https://www.frontendmentor.io/profile/annacsillaxs)
+- Frontend Mentor - [@annacsillaxs](https://www.frontendmentor.io/profile/annacsillaxs)
